@@ -1,6 +1,6 @@
 ---
 layout: slide
-title: "Welcome to our second slide!"
+Hey guys I am new here. Kindly help me
 ---
-Your text
+Everything happens for a reason
 Use the left arrow to go back!
